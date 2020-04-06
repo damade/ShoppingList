@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <fraction name="pizza">5.5</fraction>
+    <fraction name="burger">4</fraction>
+    <fraction name="video_game">54.99</fraction>
+    <fraction name="smart_watch">324.99</fraction>
+    <fraction name="smart_phone">900</fraction>
+    <fraction name="computer">1499</fraction>
+    <fraction name="tv">1299</fraction>
+</resources>
